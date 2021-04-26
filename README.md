@@ -5,3 +5,4 @@ This program is a simulation of European roulette. One bet can be placed, and if
 the users balance. 
 
 The program is under finalProj
+Tutorial - https://www.youtube.com/watch?v=VPgZW2iosF8
